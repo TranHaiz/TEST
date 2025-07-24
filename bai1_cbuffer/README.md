@@ -14,6 +14,10 @@ This is a circular buffer (ring buffer) implementation in C. It supports storing
 | `uint32_t cb_space_count(cbuffer_t *cb)`                             | Return the number of free spaces            |
 | `uint32_t cb_data_count(cbuffer_t *cb)`                              | Return the number of used (filled) slots    |
 
+# Flowchart
+
+![Flowchart of cb_space_count](http://draw.io/)
+
 
 # 📁 Folder Structure
 
