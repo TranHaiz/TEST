@@ -28,17 +28,12 @@ README.md
 # How to Run Example
 
 ```bash
-# Clone project
-git clone https://github.com/yourname/cbuffer.git
-
-#turn on folder with visual code
-
-# Build example
+#1. Clone or dowload this project
+#2. Turn on folder bai1_cbuffer with visual code
+#3. Build example
 make
-
-# Run the program
+#4. Run the program
 ./main.exe
-
-#clean the program
+#5. Clean the program if needed
 make clean
 ```
