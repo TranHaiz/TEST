@@ -15,7 +15,6 @@ This is a circular buffer (ring buffer) implementation in C. It supports storing
 | `uint32_t cb_data_count(cbuffer_t *cb)`                              | Return the number of used (filled) slots    |
 
 
-
 # 📁 Folder Structure
 
 src/<br>
